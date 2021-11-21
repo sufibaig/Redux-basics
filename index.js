@@ -4,8 +4,7 @@ const combineReducers=redux.combineReducers;
 const Buy_cake='buy cake';
 const Buy_ice='buy ice';
 
-//MiddleWare
-const reduxlogger=require('redux-logger')
+
 
 
 function buycake(){
